@@ -5,7 +5,7 @@ believing in higher powers and things like destiny to give meaning to our existe
 uncommon to seek for guidance from horoscopes and to believe that some higher order
 controls our lives. 
 
-I found the process of building the oracle quite intriguing. 
+The process of building the oracle was intriguing. 
 Users can type in a question and the oracle tells what to do as if it had access to some hidden knowledge. 
 But behind the curtain is just an array of different responses that are randomly triggered on the press of a button. 
 Using the Math.random function to trigger responses emphasises the randomness factor and denotes
