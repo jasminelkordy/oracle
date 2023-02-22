@@ -10,5 +10,5 @@ Using the Math.random function to trigger responses emphasises the randomness fa
 how we tend to attribute greater meaning to random events. The responses are arbitrary and most of them quite vague, 
 and hopefully, make you laugh and remember how silly it is to ask a computer to predict your future. 
 Or inspire you to take action. Ultimately, there are no right or wrong choices, 
-and you have the power to take control of your own future. You can get any kind of recommendations 
-regarding what you should do, but still have to decide yourself what you actually want to do.
+and you have the power to take control of your own future. 
+You can get any kind of recommendations regarding what you should do, but still have to decide yourself what you actually want to do.
